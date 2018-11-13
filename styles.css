@@ -1,0 +1,35 @@
+.wrapper{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+    
+img {
+width: 350px;
+    margin-left: 25px;
+}
+
+input {
+    width: 380px;
+}
+
+.buttons {
+   padding: 10px;
+    margin-left: 100px;
+    width: 50%;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+
+.links{
+margin-left: 100px;
+}
+ a {
+    display: inline-block;
+    text-decoration: none;
+         margin-left: 5px;
+
+}
